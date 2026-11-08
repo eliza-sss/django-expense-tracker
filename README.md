@@ -36,5 +36,5 @@ Follow these steps to set up and run the project locally on your machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/django-expense-tracker.git](https://github.com/YOUR_USERNAME/django-expense-tracker.git)
+git clone [https://github.com/eliza-sss/django-expense-tracker](https://github.com/eliza-sss/django-expense-tracker)
 cd django-expense-tracker
